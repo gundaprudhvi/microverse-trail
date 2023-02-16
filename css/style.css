@@ -37,3 +37,22 @@ button{
     border: none;
     display:block;
 }
+
+input[type="text"],input[type="email"],input[type="number"]{
+  height:30px;
+  width:90%
+}
+
+.form-group{
+  margin-left:20px;
+}
+
+select{
+  height:30px;
+  width:90%;
+}
+
+button{
+  width:95%;
+  height:30px;
+}
